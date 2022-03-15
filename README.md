@@ -1,6 +1,6 @@
 # Persistent-homology-Examples
-Репозиторий содержит примеры вычисления устойчивых гомологий
+The repository contains examples of persistent homology calculations.
 
-Примеры относятся к методичке, выложенной в основной папке
+The code is the complementary material for my textbook on homology (in Russian), downloadable from the main directory.
 
-Для вычислений использован питоновский пакет Dyonisus2 https://mrzv.org/software/dionysus2/
+Computations are based on the package Dyonisus2 https://mrzv.org/software/dionysus2/
