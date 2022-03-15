@@ -1,4 +1,4 @@
-# Persistent-homology-Examples
+# Learn-persistent-homology
 The repository contains examples of persistent homology calculations.
 
 The code is the complementary material for my textbook on homology (in Russian) available in the repository.
